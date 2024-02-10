@@ -41,7 +41,7 @@ This project utilizes the following dependencies:
 
 ## Credits
 
-This project was created by [Your Name] and is licensed under the [MIT License](LICENSE).
+This project was created by Babul and is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
